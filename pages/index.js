@@ -16,7 +16,7 @@ export default function Home() {
           Get started by editing Clement's <code>pages/index.js</code>
         </p>
         
-        <script src='heroku.js' defer></script>
+        
         
 
       </main>
