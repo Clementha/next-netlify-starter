@@ -15,9 +15,9 @@ export default function Home() {
         <p className="description">
           Get started by editing Clement's <code>pages/index.js</code>
         </p>
-        <p className="herokuTest">
+        
         <script src='heroku.js' defer></script>
-        </p>
+        
 
       </main>
 
