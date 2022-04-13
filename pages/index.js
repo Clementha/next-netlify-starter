@@ -16,7 +16,7 @@ export default function Home() {
           Get started by editing Clement's <code>pages/index.js</code>
         </p>
         <p className="herokuTest">
-          const res= await fetch('alm-dusk-95826.herokuapp.com/db')
+        <script src='heroku.js' defer><</script>
         </p>
 
       </main>
