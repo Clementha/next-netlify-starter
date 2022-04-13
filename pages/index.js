@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Clement's app on Netlify!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by editing Clement's <code>pages/index.js</code>
         </p>
       </main>
 
