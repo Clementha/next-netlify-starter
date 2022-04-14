@@ -15,6 +15,9 @@ export default function Home() {
         <p className="description">
           Get started by editing Clement's <code>pages/index.js</code>
         </p>
+        <p><a href="https://calm-dusk-95826.herokuapp.com/db">Heroku node.js calls PostgreSQL</a></p>
+        <p><a href="https://pn0a9jqeab.execute-api.ap-southeast-1.amazonaws.com/test/transactions?transactionId=5&type=PURCHASE&amount=500">Serverless API call - AWS API Gateway to Lambda</a></p>
+
         
         
         
