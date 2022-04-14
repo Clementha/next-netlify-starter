@@ -11,11 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Clement's test page on Netlify!" />
+        <Header title="Welcome to Clement's demo page on Netlify!" />
         <p className="description">
-          Below are the test projects, this file is <code>pages/index.js</code>
+          This file (pages/index.js) is written in Next.js and hosted on Netlify. <br> Below are some demos on services on free tier, enjoy!</code>
         </p>
-        <p><a href="https://calm-dusk-95826.herokuapp.com/db">Heroku node.js calls PostgreSQL</a></p>
+        <p><a href="https://calm-dusk-95826.herokuapp.com/db">Backend implemented on node.js hosted on Heroku, returning data from PostgreSQL</a></p>
         <p><a href="https://pn0a9jqeab.execute-api.ap-southeast-1.amazonaws.com/test/transactions?transactionId=5&type=PURCHASE&amount=500">Serverless API call - AWS API Gateway to Lambda</a></p>
 
         
